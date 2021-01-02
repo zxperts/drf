@@ -4,7 +4,6 @@ from django.db import models
 
 
 class Moviedata(models.Model):
-
     def __str__(self):
         return self.name
 
