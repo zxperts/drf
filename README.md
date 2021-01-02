@@ -212,3 +212,8 @@ def movie_list(request):
  
     return render(request,'newapp/movie_list.html',{'movie_objects':movie_objects})
 ```
+
+
+### User Permissions
+
+Staff permissions 
